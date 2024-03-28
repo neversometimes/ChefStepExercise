@@ -3,7 +3,7 @@ package org.example;
 import java.util.*;
 import java.io.*;
 
-// Code in main() reads in a file containing X number of words
+// Code in main() reads in a file containing X number of words.
 // Words are added to a linkedHashSet which recognizes order and doesn't allow duplicates
 // The linkedHashSet is then written to an output.txt file
 // Using large test files and measuring execution time shows using a linkedHashSet
