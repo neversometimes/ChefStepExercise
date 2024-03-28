@@ -47,7 +47,8 @@ public class Main {
         // calc elapsed time of code execution end-start time (ms)
         double timeElapsedMillis = endTime - startTime;
         double ms2sec = timeElapsedMillis/1000.0;  //convert ms to secs
-       System.out.println(ms2sec);
+
+        System.out.println(ms2sec); //print out the elapsed time in secs
 
     }
 
